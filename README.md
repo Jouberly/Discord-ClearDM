@@ -17,6 +17,8 @@ O **Self BOT - ClearDM** é um script programado em **node.js** usando a bibliot
    ```bash
    git clone https://github.com/Jouberly/Discord-ClearDM.git
 
+- Ou você também pode baixar este código clicando em **"<> Code"** depois em **"Download ZIP"**
+
 2. Instale as dependências:
    ```bash
    npm install
